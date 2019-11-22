@@ -9,12 +9,19 @@ I won't make it a rule, but I'm going to try my best not to repeat categories. T
 
 ## Datasets Explored
 
-#### Nursing Homes in the U.S.: Where Do We Need to Improve?**
+#### Nursing Homes in the U.S.: Where Do We Need to Improve?
 - **Date**: 24 October 2019
 - **Notebook**: [241019-ecl-nursing-homes.ipynb](241019-ecl-nursing-homes.ipynb)
-- **Blog post**: [http://echrislynch.com/2019/10/24/nursing-homes-in-the-u-s](http://echrislynch.com/2019/10/24/nursing-homes-in-the-u-s)
+- **Blog post**: [Nursing Homes in the U.S.](http://echrislynch.com/2019/10/24/nursing-homes-in-the-u-s)
 - **Primary Data Source**: [Nursing Home Inspect (ProPublica)](https://projects.propublica.org/nursing-homes/)
 - **Category**: elderly care
+
+#### Design Census: Designing a Data Dictionary
+- **Date**: 21 November 2019
+- **Notebook**: [211119-ecl-design-census.ipynb](211119-ecl-design-census.ipynb)
+- **Blog post**: [Design Census: Designing a data dictionary](http://echrislynch.com/2019/11/22/design-census-designing-a-data-dictionary/)
+- **Primary Data Source**: [Design Census 2019](https://designcensus.org/)
+- **Category**: design
 
 ## Potential Datasets to Explore
 1. [The States Network](https://ippsr.msu.edu/public-policy/state-networks) [commerce, networks]
